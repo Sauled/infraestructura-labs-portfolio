@@ -15,4 +15,4 @@ Cada laboratorio documenta el escenario operativo, diseño de topología, config
 ├── 04-windows-active-directory/     # Controladores de dominio, DNS, DHCP y políticas GPO
 ├── 05-sql-soporte-operativo/        # Consultas de validación y diagnóstico en bases de datos
 └── 06-cloud-infraestructura-hibrida/# Redes virtuales (VPC/VNet), IAM y túneles On-Premise ↔ Cloud
-└── 07-certificaciones e Insignias Verificabless #Microsoft Learn (Applied Skills), Oracle y Fortinet
+└── 07-certificaciones e Insignias Verificabless # Microsoft Learn (Applied Skills), Oracle y Fortinet
